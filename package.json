@@ -1,5 +1,5 @@
 {
-  "name": "@garytee/remote-ssh-exec",
+  "name": "remote-ssh-exec",
   "version": "1.0.0",
   "description": "Execute a script over ssh using Node.JS",
   "repository": {
