@@ -1,0 +1,34 @@
+{
+  "name": "@garytee/ssh-exec",
+  "version": "2.0.1",
+  "description": "Execute a script over ssh using Node.JS",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/garytee/ssh-exec.git"
+  },
+  "dependencies": {
+    "duplexify": "^4.1.1",
+    "once": "^1.4.0",
+    "ssh2": "^0.8.9"
+  },
+  "devDependencies": {
+    "standard": "^5.4.1"
+  },
+  "bugs": {
+    "url": "https://github.com/garytee/ssh-exec/issues"
+  },
+  "scripts": {
+    "test": "standard"
+  },
+  "homepage": "https://github.com/garytee/ssh-exec",
+  "main": "index.js",
+  "keywords": [
+    "ssh",
+    "stream",
+    "duplex",
+    "exec",
+    "connection"
+  ],
+  "author": "Gary Tietjen (@garytee)",
+  "license": "MIT"
+}
